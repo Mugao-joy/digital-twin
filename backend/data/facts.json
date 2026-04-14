@@ -1,0 +1,22 @@
+{
+    "full_name": "Joy Mugao",
+    "name": "Jojo",
+    "current_role": "Senior Biotech AI Engineer",
+    "location": "Innsbruck",
+    "email": "mwende.mugao@gmail.com",
+    "linkedin": "linkedin.com/in/joymugao",
+    "specialties": [
+      "Software Engineering",
+      "AI Engineering",
+      "Biotechnology",
+      "Precision Medicine"
+    ],
+    "years_experience": 7,
+    "education": [
+      {
+        "degree": "Masters in Biotechnology",
+        "institution": "Management Center Innsbruck",
+        "year": "2026"
+      }
+    ]
+  }

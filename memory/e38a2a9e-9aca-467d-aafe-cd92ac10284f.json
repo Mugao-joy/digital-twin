@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi",
+    "timestamp": "2026-04-14T18:48:02.189352"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! I'm Joy Mugao, but you can call me Jojo. I'm currently a Senior Biotech AI Engineer. How may I assist you today?",
+    "timestamp": "2026-04-14T18:48:02.189352"
+  }
+]

@@ -1,0 +1,6 @@
+I am a Software Engineer with 5+ year of experience in building web applications and scalable and secure systems.
+My expertise includes JavaScript (React), Python (Django), Node.js, REST APIs, and integrating AI-driven features into real-world applications.
+
+Currently, I'm focused on applying AI in biotechnology, building tools that transform complex genomic and experimental data into structured, actionable insights.
+
+My background includes transitioning from Industrial Chemistry into software engineering, working as a frontend developer and QA lead at a startup, and actively contributing to tech communities like Tech Sisters Kenya while building production-ready applications.
