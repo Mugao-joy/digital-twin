@@ -18,7 +18,7 @@ load_dotenv()
 app = FastAPI()
 
 # Configure CORS
-origins = os.getenv("CORS_ORIGINS", "http://localhost:3000").split(",")
+origins = ["*"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,

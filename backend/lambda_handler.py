@@ -1,5 +1,4 @@
-rom mangum import Mangum
 from server import app
+from mangum import Mangum
 
-# Create the Lambda handler
 handler = Mangum(app)
